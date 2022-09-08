@@ -18,7 +18,7 @@ Here are some ideas to get you started:
          height="45"
          width="45" />, I'm Shruti Anekar </h1>
 <h4 align="center">
-A DevOps Enginner, Container Enthusiast and a Developer by heart :heart: !
+A DevOps Enginner, Container and an Open Source Enthusiast :rocket: !
 
 Critical thinking with extensive understanding of high availability architecture and concepts. Purpose-driven professional with the capacity to be a strong team player plus work effectively independently.
   </br>
